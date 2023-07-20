@@ -1,6 +1,8 @@
-# Hello there 👋
+<h1 align="center">Hello there 👋</h1> 
 
-My name is Joseph Song and I'm a software engineer/developer from Seattle. Find me at ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+<h2 align="center"> I'm Joseph Song and I'm a software engineer/developer from Seattle </h2>
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />](https://www.linkedin.com/in/joseph-song-0a114226a/)
 
 <!--
 **JosephMinSong/JosephMinSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
