@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello there - I'm Joseph 👋</h1> 
 <h2 align="center">
-  <img width="45" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/5443194d-c813-4bef-9efb-65c685dc86fd" />
+  <img width="45" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/90688f41-a091-4aa6-ad9d-1a7ad24c8cd2" />
   Software engineer/developer from Seattle 
-  <img width="45" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/c12be0a6-59b1-43fc-bd1f-793e406afd1e" />
+  <img width="45" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/8800953c-6b65-48a0-b9ae-d3cfa1e632dd" />
 </h2>
 
 <p align='center'>
@@ -42,20 +42,13 @@
  
 </div>
 
-
-
-
-
-
-
-
 <h2> 🔭 I’m currently working on </h2>
-- <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/ad3db0d3-79de-462b-8d42-7414ad6eae66" /> <a href="https://github.com/JosephMinSong/ExtremeBattles"> Extreme Battles </a> - A game built in Unity that mimics the popular game "Cuphead", specifically the "Grim Matchstick" Boss Fight
+- <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/9c73b91d-dea1-443d-88d2-8c11617850fd" /> <a href="https://github.com/JosephMinSong/ExtremeBattles"> Extreme Battles </a> - A game built in Unity that mimics the popular game "Cuphead", specifically the "Grim Matchstick" Boss Fight
 <br />
-- <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/ab78152f-7340-49dc-ab7d-1f1a84a207fe" /> <a href="https://github.com/JosephMinSong/Movie_Match"> Movie Match </a> - A website built 
+- <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/8adb7abf-46e3-4ce4-906c-b497fdc5f66a" /> <a href="https://github.com/JosephMinSong/Movie_Match"> Movie Match </a> - A website built 
 with Next.JS that allows users to search and find movies which they can then favorite and save
 <br />
-- <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/d0c823a5-b962-4be1-9218-5c8ca5b9caeb" /> <a href="https://github.com/JosephMinSong/Cancer_Guide"> Symptom Tracker </a> - A website built
+- <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/671f9e0a-5ed1-4e44-a70e-8dbff7eafcdd" /> <a href="https://github.com/JosephMinSong/Cancer_Guide"> Symptom Tracker </a> - A website built
 with Python and Flask that allows users, who are afflicted with cancer (specifically leukemia patients) to keep track of their symptoms, their care team, and any other helpful information about their condition
 
 
