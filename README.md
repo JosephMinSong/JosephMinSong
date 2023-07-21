@@ -43,7 +43,7 @@
 </div>
 
 <h2> 🔭 I’m currently working on </h2>
-- <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/9c73b91d-dea1-443d-88d2-8c11617850fd" /> <a href="https://github.com/JosephMinSong/ExtremeBattles"> Extreme Battles </a> - A game built in Unity that mimics the popular game "Cuphead", specifically the "Grim Matchstick" Boss Fight
+- <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/9c73b91d-dea1-443d-88d2-8c11617850fd" /> <a href="https://github.com/JosephMinSong/ExtremeBattles"> Extreme Battles </a> - A game built in Unity that is inspired by the popular game "Cuphead", specifically the "Grim Matchstick" Boss Fight
 <br />
 - <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/8adb7abf-46e3-4ce4-906c-b497fdc5f66a" /> <a href="https://github.com/JosephMinSong/Movie_Match"> Movie Match </a> - A website built 
 with Next.JS that allows users to search and find movies which they can then favorite and save
