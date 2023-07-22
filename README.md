@@ -5,6 +5,10 @@
   <img width="45" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/8800953c-6b65-48a0-b9ae-d3cfa1e632dd" />
 </h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=242D9B&center=true&vCenter=true&width=500&lines=Always+Continue+Learning" alt="Typing SVG" />
+</p>
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/joseph-song-0a114226a/">
     <img width="200" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
