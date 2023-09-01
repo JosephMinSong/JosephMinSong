@@ -47,14 +47,12 @@
 </div>
 
 <h2> 🔭 I’m currently working on </h2>
-- <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/9c73b91d-dea1-443d-88d2-8c11617850fd" /> <a href="https://github.com/JosephMinSong/ExtremeBattles"> Extreme Battles </a> - A game built in Unity that is inspired by the popular game "Cuphead", specifically the "Grim Matchstick" Boss Fight
+- 🔥 <a href="https://github.com/JosephMinSong/Cracking_The_Fire_Interview"> Cracking the Fire Interview </a> - A social media website for aspiring firefighters to learn more about the interview process - I am in the beginning stages of development and hope to release it soon!
 <br />
 - <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/8adb7abf-46e3-4ce4-906c-b497fdc5f66a" /> <a href="https://github.com/JosephMinSong/Movie_Match"> Movie Match </a> - A website built 
-with Next.JS that allows users to search and find movies which they can then favorite and save
+with Next.JS that allows users to search and find movies which they can then favorite and save - I am working on possibly building a game centered around matching movies for multiple people in a group!
 <br />
-- <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/671f9e0a-5ed1-4e44-a70e-8dbff7eafcdd" /> <a href="https://github.com/JosephMinSong/Cancer_Guide"> Symptom Tracker </a> - A website built
-with Python and Flask that allows users, who are afflicted with cancer (specifically leukemia patients) to keep track of their symptoms, their care team, and any other helpful information about their condition
-
+- 🍖 <a href="https://github.com/JosephMinSong/Teriyaki"> Teriyaki Bowl </a> - A website for users to browse and order food items from a restaurant called "Teriyaki Bowl" - I've been commissioned to build this for production so I am in the process of rebuilding the website with Next.Js and implementing Clover for payments
 
 <p align='center' display='flex-column'>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=josephminsong&theme=dark" width="750"></a>
