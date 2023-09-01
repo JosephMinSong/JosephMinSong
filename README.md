@@ -49,8 +49,10 @@
 <h2> 🔭 I’m currently working on </h2>
 - 🔥 <a href="https://github.com/JosephMinSong/Cracking_The_Fire_Interview"> Cracking the Fire Interview </a> - A social media website for aspiring firefighters to learn more about the interview process - I am in the beginning stages of development and hope to release it soon!
 <br />
+<br />
 - <img width="30" src="https://github.com/JosephMinSong/JosephMinSong/assets/129890601/8adb7abf-46e3-4ce4-906c-b497fdc5f66a" /> <a href="https://github.com/JosephMinSong/Movie_Match"> Movie Match </a> - A website built 
 with Next.JS that allows users to search and find movies which they can then favorite and save - I am working on possibly building a game centered around matching movies for multiple people in a group!
+<br />
 <br />
 - 🍖 <a href="https://github.com/JosephMinSong/Teriyaki"> Teriyaki Bowl </a> - A website for users to browse and order food items from a restaurant called "Teriyaki Bowl" - I've been commissioned to build this for production so I am in the process of rebuilding the website with Next.Js and implementing Clover for payments
 
